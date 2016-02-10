@@ -7,3 +7,6 @@ Application développé sous Cordova 6.0.0 :
   - recherche un article
   - affichage en détail de l'article sélectionné
 - utilisation de l'évènement 'backbutton' 
+
+
+https://github.com/clamarque/app_m_wiki/images/cover.jpg
