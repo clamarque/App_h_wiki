@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Recherche Wikipedia</title>
+	<meta charset="utf-8" />
+	<!-- bootstrap -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" crossorigin="anonymous">
+	<!-- jquery -->
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="main.js"></script>
+	<script type="text/javascript" src="cordova.js"></script>
+	<!-- CSS -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body onload="onLoad()">
+	<header class="header">
+			<h1>WikiSearchor</h1>
+	</header>
+	<section class="view">
+	    <form onsubmit="submitForm();return false" method="get">
+	        <input id="search" name="search" type="search" placeholder="Rechercher dans WikiSearchor" />
+	        <input type="submit" value="Rechercher">
+	    </form>
+	</section>
+	<section class="results">
+	    <h1></h1>
+	    <ul id="list">            
+	    </ul>
+	    <div class="detailContainer">
+	        <h3></h3>
+	        <p></p>
+	    </div>
+	</section>
+</body>
+</html>
