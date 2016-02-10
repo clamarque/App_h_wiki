@@ -4,6 +4,7 @@ Application développé sous Cordova 6.0.0 :
 
 <p align="center">
 <img src="https://github.com/clamarque/app_m_wiki/blob/master/images/cover.jpg" alt="cover" width="320" />
+<img src="https://github.com/clamarque/app_m_wiki/blob/master/images/cover1.jpg" alt="cover" width="320" />
 </p>
 
 - utilisation de l'api wikipedia
