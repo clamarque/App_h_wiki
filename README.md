@@ -8,4 +8,4 @@ Application développé sous Cordova 6.0.0 :
   - affichage en détail de l'article sélectionné
 - utilisation de l'évènement 'backbutton' 
 
-<img src="https://github.com/clamarque/app_m_wiki/images/cover.jpg" alt="cover" />
+<img src="https://github.com/clamarque/app_m_wiki/blob/master/images/cover.jpg" alt="cover" />
